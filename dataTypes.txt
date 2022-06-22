@@ -1,0 +1,12 @@
+Two types of datatypes in JS
+
+->Primitive datatypes ===>  1.String = "mj"
+                            2.numbers = 43
+                            3.Boolean = true/false
+                            4.Null
+                            5.undefined
+                            6.symbol -> ES6
+->Reference datatypes ===> 1.Arrays
+                           2.Object literals
+                           3.Functions
+                           4.Dates
